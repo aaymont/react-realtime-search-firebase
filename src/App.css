@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  max-width: 750px;
+  margin: auto;
+  padding: 60px;
+}
+
+.Header {
+  border: 1px dashed black;
+  border-radius: 10px;
+  background: #4c6b8a;
+  padding: 30px;
+}
+
+.Title {
+  font-size: 30px;
+  color: #c4d1de;
+  padding-bottom: 15px;
+  font-variant: small-caps;
+  text-decoration: underline;
+}
+
+.Description {
+  font-size: 14px;
+  color: #c4d1de;
+}
+

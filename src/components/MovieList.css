@@ -1,0 +1,40 @@
+.ListTable {
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #333;
+    border-collapse: collapse;
+}
+
+.ColRank {
+    width: 50px;
+    text-align: left;
+    padding: 8px;
+    border: 1px solid #333;
+    border-right: 0px;
+}
+
+.ColTitle {
+    width: 350px;
+    text-align: left;
+    padding: 8px;
+    border: 1px solid #333;
+    border-right: 0px;
+    border-left: 0px;
+}
+
+.ColYear {
+    width: 50px;
+    text-align: left;
+    padding: 8px;
+    border: 1px solid #333;
+    border-left: 0px;
+}
+
+.SearchBox {
+    padding-top: 20px;
+}
+  
+.SearchInput {
+    background-color: #c4d1de;
+    color: #333333;
+}

@@ -1,0 +1,11 @@
+{
+    "extends": ["standard", "standard-react"],
+    "rules": {
+        "semi": "off",
+        "indent": "off",
+        "jsx-quotes": "off",
+        "space-before-function-paren": "off",
+        "no-trailing-spaces": "off",
+        "react/jsx-indent": "off"
+    }
+}
